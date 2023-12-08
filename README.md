@@ -1,1 +1,1 @@
-# Ubuntu 20.04 LTS
+# Ubuntu 22.04 (Jammy Jellyfish) LTS
